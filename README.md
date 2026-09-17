@@ -24,6 +24,8 @@ $$U(x, y) = \frac{x^2}{y} + 3\left(\frac{x}{y}\right)$$
 3. Ensure `flood_data.xlsx` is present in the working directory.
 4. Run the script to calculate partials and export results to `flood_analysis_output.xlsx`.
 
+THIS PROJECT INVOLVES 2 PARTICIPANTS SOO @nikshithngowda17
+
 ## Repository Files
 - `Flood P.m` - Main MATLAB implementation script.
 - `flood_data.xlsx` - Input historical flood dataset.
